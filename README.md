@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bhagyashri%20Pagar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Science%20Practitioner&descAlignY=58&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,24&height=200&section=header&text=Bhagyashri%20Pagar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20AI%20Enthusiast%20|%20Data%20Science%20Practitioner&descAlignY=58&descAlign=62" />
   
   <h3>👋 Transforming Complex Challenges into Elegant, High-Performance Solutions</h3>
 </div>
@@ -115,51 +115,66 @@ What truly sets me apart is my ability to blend technical expertise with creativ
   </tr>
 </table>
 
-## 💻 Technical Arsenal
+## 💻 Technical Skills
 
-<table>
-  <tr>
-    <td>
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/source-code.png" width="25"/>
-        Languages
-      </h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,kotlin,cs,r" />
-      </p>
-    </td>
-    <td>
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/web.png" width="25"/>
-        Web Technologies
-      </h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,html,css" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/database.png" width="25"/>
-        Data & AI
-      </h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,tensorflow,pytorch" />
-        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" height="36" />
-      </p>
-    </td>
-    <td>
-      <h3 align="center">
-        <img src="https://img.icons8.com/color/48/000000/cloud.png" width="25"/>
-        Cloud & DevOps
-      </h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  </p>
+  
+  <h3>Web Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  </p>
+  
+  <h3>AI, ML & Data</h3>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  </p>
+  
+  <h3>Databases & Cloud</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </p>
+  
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alteryx-1F7244?style=for-the-badge&logo=alteryx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  </p>
+</div>
 
 ## 🧠 What Sets Me Apart
 
@@ -167,18 +182,18 @@ What truly sets me apart is my ability to blend technical expertise with creativ
   <tr>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/merge-git.png" width="60" />
-      <h3>Full-Stack Excellence</h3>
-      <p>Seamlessly blending frontend design with backend architecture to create cohesive, high-performance applications that delight users while meeting business objectives.</p>
+      <h3>Technical Proficiency</h3>
+      <p>Fluent in multiple programming languages, seamlessly blending backend logic with frontend design while leveraging cloud technologies for scalable, high-performance solutions.</p>
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60" />
-      <h3>AI-Driven Innovation</h3>
-      <p>Leveraging cutting-edge ML/AI technologies to develop intelligent systems that transform raw data into predictive insights and actionable business intelligence.</p>
+      <h3>Analytical Problem Solver</h3>
+      <p>Transforming raw data into actionable insights through predictive modeling and advanced techniques that drive business outcomes and optimize decision-making processes.</p>
     </td>
     <td width="33%" align="center">
       <img src="https://img.icons8.com/fluency/96/000000/group-of-projects.png" width="60" />
-      <h3>Impact-Focused Delivery</h3>
-      <p>Consistently delivering measurable business impact through optimized systems that improve efficiency, reduce costs, and enhance user experiences.</p>
+      <h3>Creative & Collaborative</h3>
+      <p>Designing engaging applications with a focus on user experience while thriving in environments where innovation meets collaboration to push technological boundaries.</p>
     </td>
   </tr>
 </table>
@@ -229,10 +244,6 @@ What truly sets me apart is my ability to blend technical expertise with creativ
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pagar-Bhagyashri&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,24&height=120&section=footer&animation=fadeIn" />
 </div>
