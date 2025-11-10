@@ -1,25 +1,26 @@
-# <span style="font-size: 32px;">👋 Hi there, I'm Bhagyashri Pagar!</span>
+# 👋 Hi there, I'm Bhagyashri Pagar!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full+Stack+Developer;AI +and+ ML +Enthusiast;Data +Scientist" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Data+Scientist" alt="Typing SVG" />
+</p>
 
-<p align="center" style="font-size: 18px; margin: 25px 0;">
+<p align="center">
 I'm a passionate Software Engineer and graduate student at Northeastern University, building intelligent systems that solve real-world problems. From architecting scalable microservices to developing advanced RAG systems, I thrive on transforming complex challenges into elegant solutions.
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/MS_Information_Systems-Northeastern_University-0099ff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GPA-3.85/4.00-00cc66?style=for-the-badge"/>
-</div>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 <div style="background: #f9f9f9; border-left: 5px solid #2986cc; padding: 20px; margin: 20px 0; font-size: 17px; line-height: 1.6;">
-Hello! I am a results-driven Software Engineer pursuing my Master’s in Information Systems at Northeastern University, passionate about building scalable, high-impact systems. At Sunanda Infotech, I engineered production-ready applications, optimized backend performance, and enhanced user engagement. I also designed ETL pipelines that transformed raw data into actionable insights. I thrive at the intersection of software engineering and data infrastructure, owning projects end-to-end from system architecture and cloud deployment to data modeling and pipeline optimization. I am seeking co-op or full-time opportunities in Software Development or Data Engineering where I can apply my skills to create data-driven solutions that power business growth.
+Hello! I'm an Information Technology engineer fueled by a profound curiosity for technology and innovation. Currently pursuing my Master of Science in Information Systems at Northeastern University (GPA: 3.85/4.00), I am dedicated to mastering new skills and crafting impactful solutions in the ever-evolving tech landscape.
 
+As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered applications that improved page load times by 35% and reduced API response times by 40%. My technical journey spans from architecting scalable microservices with Java Spring Boot to developing intelligent RAG systems with 96% reduction in document fragmentation.
 </div>
 
 <blockquote align="center" style="font-size: 22px; font-style: italic; color: #2986cc; margin: 30px 50px;">
@@ -203,21 +204,4 @@ Hello! I am a results-driven Software Engineer pursuing my Master’s in Informa
 <div align="center" style="margin: 30px 0;">
   
 <a href="https://linkedin.com/in/bhagyashri-pagar" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pagar.b@northeastern.edu" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Pagar-Bhagyashri" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-  <br>
-  <p style="font-size: 20px; font-style: italic; color: #2986cc; margin-top: 15px;">⚡ "Building today's solutions with tomorrow's technology"</p>
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin
