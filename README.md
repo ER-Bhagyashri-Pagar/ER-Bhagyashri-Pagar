@@ -1,7 +1,7 @@
 # <span style="font-size: 32px;">👋 Hi there, I'm Bhagyashri Pagar!</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full Stack Developer;AI and ML Enthusiast;Data scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full+Stack+Developer;AI +and+ ML +Enthusiast;Data +Scientist" alt="Typing SVG" />
 </div>
 
 <p align="center" style="font-size: 18px; margin: 25px 0;">
