@@ -204,21 +204,4 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
 <div align="center" style="margin: 30px 0;">
   
 <a href="https://linkedin.com/in/bhagyashri-pagar" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pagar.b@northeastern.edu" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Pagar-Bhagyashri" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  
-</div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
-  <br>
-  <p style="font-size: 20px; font-style: italic; color: #2986cc; margin-top: 15px;">⚡ "Building today's solutions with tomorrow's technology"</p>
-</div>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin
