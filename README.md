@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Bhagyashri Pagar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full+Stack+Developer;AI+and+ML+Enthusiast;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Software Engineer; Full+Stack+Developer;AI+and+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -231,5 +231,4 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
 
 </div>
 
----
 
