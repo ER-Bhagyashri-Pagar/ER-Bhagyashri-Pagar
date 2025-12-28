@@ -218,4 +218,4 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
 <div align="center" style="margin: 30px 0;">
   
 <a href="https://linkedin.com/in/bhagyashri-pagar" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin>
