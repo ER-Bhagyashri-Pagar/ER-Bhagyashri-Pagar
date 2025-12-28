@@ -218,4 +218,29 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
 <div align="center" style="margin: 30px 0;">
   
 <a href="https://linkedin.com/in/bhagyashri-pagar" style="text-decoration: none; margin: 0 10px;">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bhagyashripagar" style="text-decoration: none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your.email@example.com" style="text-decoration: none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.com" style="text-decoration: none; margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://komarev.com/ghpvc/?username=bhagyashripagar&label=Profile%20Views&color=2986cc&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center" style="margin: 20px 0; font-size: 18px; color: #666;">
+  <p>💡 <i>Open to collaborating on innovative projects in AI, Machine Learning, and Full Stack Development!</i></p>
+</div>
