@@ -1,11 +1,12 @@
 # 👋 Hi there, I'm Bhagyashri Pagar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+and+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&pause=1000&color=2986cc&width=600&lines=Full+Stack+Developer;AI+and+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
 I'm a passionate Software Engineer and graduate student at Northeastern University, building intelligent systems that solve real-world problems. From architecting scalable microservices to developing advanced RAG systems, I thrive on transforming complex challenges into elegant solutions.
+  
 </p>
 
 <p align="center">
@@ -18,11 +19,12 @@ I'm a passionate Software Engineer and graduate student at Northeastern Universi
 ## 🚀 About Me
 
 <div style="background: #f9f9f9; border-left: 5px solid #2986cc; padding: 20px; margin: 20px 0; font-size: 17px; line-height: 1.6;">
-Hello! I'm an Information Technology engineer fueled by a profound curiosity for technology and innovation. Currently pursuing my Master of Science in Information Systems at Northeastern University (GPA: 3.85/4.00), I am dedicated to mastering new skills and crafting impactful solutions in the ever-evolving tech landscape.
 
-As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered applications that improved page load times by 35% and reduced API response times by 40%. My technical journey spans from architecting scalable microservices with Java Spring Boot to developing intelligent RAG systems with 96% reduction in document fragmentation.
-</div>
-
+* 🔨 Gained real-world experience at Sunanda Infotech developing backend services with Java/Spring Boot, designing data pipelines, and deploying on cloud infrastructure
+* ⚡ I thrive on the technical challenges: optimizing slow queries, debugging distributed systems, making pipelines fault-tolerant, and architecting for scale
+* 🧠 Currently obsessed with LLMs and RAG systems - exploring how to move beyond the hype and build AI features that solve actual user problems in production environments
+* 🎯 Open to Software Engineering opportunities where I can design resilient systems, optimize data workflows, and ship features that create real impact
+  
 <blockquote align="center" style="font-size: 22px; font-style: italic; color: #2986cc; margin: 30px 50px;">
   <p>"I don't just write code – I architect solutions that bridge the gap between complex business challenges and cutting-edge technology."</p>
 </blockquote>
