@@ -233,6 +233,3 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
 
 ---
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://komarev.com/ghpvc/?username=bhagyashripagar&label=Profile%20Views&color=2986cc&style=for-the-badge" alt="Profile Views" />
-</div>
