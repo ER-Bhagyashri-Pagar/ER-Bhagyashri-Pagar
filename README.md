@@ -113,14 +113,18 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
   <img src="https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
-### <span style="font-size: 24px;">🤖 Machine Learning & AI</span>
+### <span style="font-size: 24px;">🤖 AI & Machine Learning</span>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0;">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-%230194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
@@ -170,6 +174,16 @@ As a Full Stack Engineer with experience at Sunanda Infotech, I've engineered ap
   <img src="https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPSS-%23052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</div>
+
+### <span style="font-size: 24px;">🧪 Testing & Quality Assurance</span>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0;">
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Katalon_Studio-%2300C7B7?style=for-the-badge&logo=katalon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-%2325A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-%230A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </div>
 
 </div>
